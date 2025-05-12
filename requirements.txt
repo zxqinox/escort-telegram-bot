@@ -1,0 +1,5 @@
+python-telegram-bot
+python-dotenv
+geopy
+apscheduler
+cachetools
